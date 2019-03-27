@@ -1,4 +1,7 @@
 # sesam-dedupeio-linkage
+
+[![Build Status](https://travis-ci.org/sesam-community/sesam-dedupeio-linkage.svg?branch=master)](https://travis-ci.org/sesam-community/sesam-dedupeio-linkage)
+
 Record linkage powered by Dedupe.io for Sesam.io applications POC
 
 Simple script to link possible duplicates in two different data sets for Sesam.io powered applications.
